@@ -1,4 +1,4 @@
-###
+"""This module contains the hooks for the Teamspeak Integration module."""  
 # @format
 # -----
 # Project: @eventiva/eventiva
@@ -17,7 +17,7 @@
 # Please interact in ways that contribute to an open, welcoming, diverse,
 # inclusive, and healthy community. Our Code of Conduct can be found at
 # https://github.com/eventiva/eventiva/blob/develop/CODE_OF_CONDUCT.md
-# -----
+# -  ----
 # Copyright (c) 2024 Resnovas - All Rights Reserved
 # LICENSE: GNU General Public License v2.0 or later (GPL-2.0-or-later)
 # -----
