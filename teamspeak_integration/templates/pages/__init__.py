@@ -1,4 +1,4 @@
-###
+"""This module contains the page templates for the Teamspeak Integration module."""
 # @format
 # -----
 # Project: @eventiva/eventiva
