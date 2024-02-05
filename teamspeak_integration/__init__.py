@@ -1,4 +1,5 @@
-###
+"""This module contains the implementation of the Teamspeak Integration module."""  
+# @format
 # @format
 # -----
 # Project: @eventiva/eventiva
@@ -43,7 +44,8 @@
 # the official website: https://gplcc.github.io/gplcc/
 # -----
 # DELETING THIS NOTICE AUTOMATICALLY VOIDS YOUR LICENSE
-###
+"""This module contains configuration settings for the Teamspeak Integration module."""  
+# @format
 
 
 __version__ = '0.0.1'
