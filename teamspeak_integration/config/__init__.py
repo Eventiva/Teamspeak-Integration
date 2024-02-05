@@ -1,4 +1,22 @@
-###
+"""
+This module contains the configuration for the Teamspeak Integration module.
+"""  
+# @format  
+# ----- 
+# Project: @eventiva/eventiva
+# File: __init__.py
+# Path: \projects\modules\teamspeak_integration\teamspeak_integration\config\__init__.py
+# Created Date: Sunday, January 14th 2024
+# Author: Jonathan Stevens, jonathan@resnovas.com
+# Github: https://github.com/TGTGamer
+# ----- 
+# Contributing: Please read through our contributing guidelines.
+# Included are directions for opening issues, coding standards,
+# and notes on development. These can be found at
+# https://github.com/eventiva/eventiva/blob/develop/CONTRIBUTING.md
+# ----- 
+# Code of Conduct: This project abides by the Contributor Covenant, v2.0
+# Please interact in ways that contribute to an open, welcoming, diverse,
 # @format
 # -----
 # Project: @eventiva/eventiva
